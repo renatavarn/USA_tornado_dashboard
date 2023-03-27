@@ -25,3 +25,4 @@ import dash_bootstrap_components as dbc
 ```
 
 ## App demo 
+![](demo.gif)
