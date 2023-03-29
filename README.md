@@ -4,7 +4,7 @@ Building an interactive dashboard app to visualize historical data of tornadoes 
 
 ## Data 
 
-The `data.csv` dataset represents tornado tracks in the United States, Puerto Rico, and the U.S. Virgin Islands, from 1954 to 2013. Each row represents an individual tornado event including date, geographical coordinates, magnitude, as well as injuries, fatalities and crop loss caused by the tornado.  
+The `data.csv` file contains tornado tracks data in the United States, Puerto Rico, and the U.S. Virgin Islands, from 1954 to 2013. Each row represents an individual tornado event including date, geographical coordinates, magnitude, as well as the number of injuries, fatalities and crop loss it caused.   
 
 Dataset was obtained from [Kagle](https://www.kaggle.com/datasets/thedevastator/1950-2013-north-america-tornadoes-historical-tra). The [original dataset](https://data.world/dhs/historical-tornado-tracks) was provided by the Homeland Infrastructure Foundation. Data in this repository was filtered for years 1954-2013, due to missing magnitude data between 1950-1953. 
 
